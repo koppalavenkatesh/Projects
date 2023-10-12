@@ -1,2 +1,0 @@
-# splitwise-clone
-Splitwise Clone
